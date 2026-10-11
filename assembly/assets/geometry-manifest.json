@@ -1,0 +1,56 @@
+{
+  "format": "dxx-assembly-split-v1",
+  "sourceVersion": "2.1.0",
+  "bytes": 33165504,
+  "sha256": "f1208c4fdc6df800f95185a58e8b51f246cf16b265f32747328a7c76c69fe2b4",
+  "chunks": [
+    {
+      "path": "assets/mesh-00.bin",
+      "offset": 0,
+      "bytes": 4194304,
+      "sha256": "03a47d9a431bbd47b7c0b85ea02f6d7900cccc0e882bdce126ae80828e9cd1f4"
+    },
+    {
+      "path": "assets/mesh-01.bin",
+      "offset": 4194304,
+      "bytes": 4194304,
+      "sha256": "15cf8db412165e1dfa6fc0b036947ebfda3e6afb09b2e0dded7da248312c4d00"
+    },
+    {
+      "path": "assets/mesh-02.bin",
+      "offset": 8388608,
+      "bytes": 4194304,
+      "sha256": "c42acbfa71859b08367d9aae5aea53e78d8eb4b00a1c2e4905358ffe204d03b1"
+    },
+    {
+      "path": "assets/mesh-03.bin",
+      "offset": 12582912,
+      "bytes": 4194304,
+      "sha256": "52cd7ccd4fce3de0669be5b4c8546f97b391a0671ca3cfde05707289804e791b"
+    },
+    {
+      "path": "assets/mesh-04.bin",
+      "offset": 16777216,
+      "bytes": 4194304,
+      "sha256": "6b63aea6f09e8d84b4774afff79ef700b1e7c32d5e7322e6708aa9ea9b267fb4"
+    },
+    {
+      "path": "assets/mesh-05.bin",
+      "offset": 20971520,
+      "bytes": 4194304,
+      "sha256": "d715180eedb0dcc7fb8b3e86db3629675c26efd0fc3de0534d93d69ee8be1bce"
+    },
+    {
+      "path": "assets/mesh-06.bin",
+      "offset": 25165824,
+      "bytes": 4194304,
+      "sha256": "84538af3dec98bbc7ea0ebf4e5fc6043c813ae51d40e0558eb019ac15d268431"
+    },
+    {
+      "path": "assets/mesh-07.bin",
+      "offset": 29360128,
+      "bytes": 3805376,
+      "sha256": "e78bc6db31955ca56a5765ce2578e78eca9f5539f0bbb45adc3eea1f8708e5d8"
+    }
+  ]
+}

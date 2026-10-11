@@ -1,0 +1,8 @@
+Current delivery: Dongxiaoxue Bone and Muscle Assembly 2.1.
+Original source license files preserve upstream statements and modification histories; their historical model counts are not counts for this game.
+This delivery keeps each selected source mesh vertex count unchanged; only common source-frame translation and normal-storage conversion are applied where needed. The asset audit records exact provenance and source mirrored entries.
+Geometric reference samples are not anatomical insertion landmarks. Origin/insertion descriptions and related-bone highlights do not certify patient-specific attachment coordinates.
+The general personal-use notice does not remove CC BY or MIT permissions already granted over third-party assets or reused source code. No third-party font files are distributed.
+
+V2.1 corrections: anatomical identity colours, explicit shoulder groups including teres minor and biceps, bilateral 22-bone skull reference and 28 source teeth.
+Original geometry bytes are preserved; appended skull/teeth meshes retain source vertex counts. No further decimation. Rendering/placement is educational, not clinical validation.
